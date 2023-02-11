@@ -2,9 +2,11 @@
 ocots/ocots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[<img src="./figures/inp-enseeiht.jpg" alt="ENSEEIHT" height="50px"/>](https://www.enseeiht.fr/fr/index.html)
-[<img src="./figures/logo-irit.png" alt="IRIT" height="50px"/>](https://www.irit.fr)
-[<img src="./figures/logo-apo-r.jpg" alt="APO" height="50px"/>](https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/)
+[<img src="./figures/inp-enseeiht.jpg" alt="ENSEEIHT" height="60px"/>](https://www.enseeiht.fr/fr/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./figures/logo-irit.png" alt="IRIT" height="60px"/>](https://www.irit.fr)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./figures/logo-apo-r.jpg" alt="APO" height="60px"/>](https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/)
 
 
 Associate professor of applied mathematics at
@@ -21,8 +23,6 @@ member of
 
 ## Contact and profile
 
-<a href="olivier_cots.vcf"><img src="./figures/vcard_logo.jpg" HEIGHT=30px BORDER=0></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:olivier.cots@toulouse-inp.fr"><img src="./figures/email_logo.png" HEIGHT=30px BORDER=0>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.jpg" HEIGHT="30px" BORDER="0"></a>
@@ -37,12 +37,12 @@ member of
 
 ## Softwares
 
-* <a href="http://hampath.org">HamPath: on solving optimal control problems by indirect and path following methods</a>
+<a href="https://github.com/control-toolbox" ><img src="./figures/logo-ct.png" HEIGHT="60px"  BORDER="0"></a> [control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
 
-* <a href="https://ct.gitlabpages.inria.fr/gallery/index.html" ><img src="./figures/logo-ct.png" width="60px"  border="0"></a><a href="https://ct.gitlabpages.inria.fr/nutopy/">NUmerical TOolbox in PYthon (nutopy): optimal control toolbox and more</a>
-with <a href="https://ct.gitlabpages.inria.fr/gallery/">Juptyter notebooks for use cases using solvers of the nutopy toolbox and bocop code</a>
+<a href="http://hampath.org"><img src="./figures/logo-hampath.png" HEIGHT="60px"  BORDER="0"></a> [hampath](http://hampath.org): A Fortran code with a Python interface to solve optimal control problems by indirect and path following methods. Since 2009.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="120px"  border="0"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="120px"  border="0"></a>
+<a href="https://ct.gitlabpages.inria.fr/nutopy/"><img src="./figures/logo-nt.png" HEIGHT="60px"  BORDER="0"></a> [nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](https://ct.gitlabpages.inria.fr/gallery) of examples. Since 2019.
+
+<a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
+
+<a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="100px"  BORDER="0"></a>
