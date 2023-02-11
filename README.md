@@ -18,7 +18,19 @@ member of
 <a href="http://smai.emath.fr/spip.php?article330&lang=fr">SMAI-MODE</a>,
 <a href="https://perso.math.univ-toulouse.fr/spot/">SPOT</a>.
 
-| Contact | <a href="olivier_cots.vcf"><img src="./figures/vcard_logo.jpg" HEIGHT=28px WIDTH=35px BORDER=0> </a> | <a href="mailto:olivier.cots@toulouse-inp.fr"><img src="./figures/email_logo.png" HEIGHT=28px WIDTH=35px BORDER=0> |  | 
-| :-: | :-: | :-: | :-: |
-| Publications | <a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" height="28px" border="0"></a> | <a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" height="28px" border="0"></a> | <a href="https://arxiv.org/search/?searchtype=author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" height="28px" border="0"></a> | 
-| Profile | <a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.jpg" height="28px" border="0"></a> | <a href="https://www.researchgate.net/profile/Olivier_Cots" ><img src="./figures/logo_RG.png" height="28px" border="0"></a> |  |
+
+## Contact
+
+<a href="olivier_cots.vcf"><img src="./figures/vcard_logo.jpg" HEIGHT=28px BORDER=0></a>
+<a href="mailto:olivier.cots@toulouse-inp.fr"><img src="./figures/email_logo.png" HEIGHT=28px BORDER=0>
+
+## Publications
+
+<a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" HEIGHT="28px" BORDER="0"></a> 
+<a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="28px" BORDER="0"></a> 
+<a href="https://arxiv.org/search/?searchtype=author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" HEIGHT="28px" BORDER="0"></a>
+
+## Profile
+
+ <a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.jpg" HEIGHT="28px" BORDER="0"></a>
+ <a href="https://www.researchgate.net/profile/Olivier_Cots" ><img src="./figures/logo_RG.png" HEIGHT="28px" BORDER="0"></a>
