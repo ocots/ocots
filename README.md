@@ -39,7 +39,7 @@ member of
 
 * <a href="http://hampath.org">HamPath: on solving optimal control problems by indirect and path following methods</a>
 
-* <a href="https://ct.gitlabpages.inria.fr/nutopy/">NUmerical TOolbox in PYthon (nutopy): optimal control toolbox and more</a>
+* <a href="https://ct.gitlabpages.inria.fr/gallery/index.html" ><img src="./figures/logo-ct.png" width="60px"  border="0"></a><a href="https://ct.gitlabpages.inria.fr/nutopy/">NUmerical TOolbox in PYthon (nutopy): optimal control toolbox and more</a>
 with <a href="https://ct.gitlabpages.inria.fr/gallery/">Juptyter notebooks for use cases using solvers of the nutopy toolbox and bocop code</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
