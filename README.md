@@ -34,3 +34,18 @@ member of
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="80px" BORDER="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://arxiv.org/search/?searchtype8author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" HEIGHT="80px" BORDER="0"></a>
+
+## Softwares
+
+<p STYLE="padding:0 0 0 40px;"><a href="http://hampath.org">HamPath: on solving optimal control problems by indirect and path following methods</a></p>
+
+<p STYLE="padding:0 0 0 40px;">
+<a href="https://ct.gitlabpages.inria.fr/gallery/index.html" ><img src="./figures/logo-ct.png" width="60px"  border="0"></a>
+<a href="https://ct.gitlabpages.inria.fr/nutopy/">NUmerical TOolbox in PYthon (nutopy): optimal control toolbox and more</a>
+with <a href="https://ct.gitlabpages.inria.fr/gallery/">Juptyter notebooks for use cases using solvers of the nutopy toolbox and bocop code</a></p>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="120px"  border="0"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="120px"  border="0"></a>
