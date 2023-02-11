@@ -28,12 +28,13 @@ member of
 <a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.png" HEIGHT="30px" BORDER="0"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.researchgate.net/profile/Olivier_Cots" ><img src="./figures/logo_RG.png" HEIGHT="30px" BORDER="0"></a>
+
 ## Publications
 
-<a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" HEIGHT="80px" BORDER="0"></a>
+<a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" HEIGHT="60px" BORDER="0"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="80px" BORDER="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://arxiv.org/search/?searchtype8author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" HEIGHT="80px" BORDER="0"></a>
+<a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="60px" BORDER="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://arxiv.org/search/?searchtype8author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" HEIGHT="60px" BORDER="0"></a>
 
 ## Softwares
 
