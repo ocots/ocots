@@ -25,7 +25,7 @@ member of
 
 <a href="mailto:olivier.cots@toulouse-inp.fr"><img src="./figures/email_logo.png" HEIGHT=30px BORDER=0>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.jpg" HEIGHT="30px" BORDER="0"></a>
+<a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.png" HEIGHT="30px" BORDER="0"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.researchgate.net/profile/Olivier_Cots" ><img src="./figures/logo_RG.png" HEIGHT="30px" BORDER="0"></a>
 ## Publications
