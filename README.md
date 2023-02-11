@@ -50,6 +50,6 @@ member of
 
 ## Teaching
 
-<a href="https://gitlab.irit.fr/toc/etu-n7"><img src="./figures/n7.png" HEIGHT="60px"  BORDER="0"></a> [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
+<a href="https://gitlab.irit.fr/toc/etu-n7"><img src="./figures/N7.png" HEIGHT="60px"  BORDER="0"></a> [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
 
 <a href="https://gitlab.irit.fr/toc/cimpa/gnmoc"><img src="./figures/logo-arbaminch.png" HEIGHT="60px"  BORDER="0"></a> [CIMPA](https://gitlab.irit.fr/toc/cimpa/gnmoc)
