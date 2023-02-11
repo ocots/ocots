@@ -44,5 +44,5 @@ member of
 <a href="https://ct.gitlabpages.inria.fr/nutopy/"><img src="./figures/logo-nt.png" HEIGHT="60px"  BORDER="0"></a> [nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](https://ct.gitlabpages.inria.fr/gallery) of examples. Since 2019.
 
 <a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="100px"  BORDER="0"></a>
