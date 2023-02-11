@@ -47,3 +47,9 @@ member of
 <a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="100px"  BORDER="0"></a>
+
+## Teaching
+
+<a href="https://gitlab.irit.fr/toc/etu-n7"><img src="./figures/n7.png" HEIGHT="60px"  BORDER="0"></a> [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
+
+<a href="https://gitlab.irit.fr/toc/cimpa/gnmoc"><img src="./figures/logo-arbaminch.png" HEIGHT="60px"  BORDER="0"></a> [CIMPA](https://gitlab.irit.fr/toc/cimpa/gnmoc)
