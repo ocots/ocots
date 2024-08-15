@@ -15,11 +15,7 @@ Associate professor of applied mathematics at
 
 Scientific interests: Optimal control: Geometry, algorithms and applications.
 
-Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</a>,
-member of
-<a href="http://smai.emath.fr/spip.php?article330&lang=fr">SMAI-MODE</a>,
-<a href="https://perso.math.univ-toulouse.fr/spot/">SPOT</a>.
-
+Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</a>.
 
 ## Contact and profile
 
@@ -38,15 +34,17 @@ member of
 
 ## Softwares
 
-<a href="https://github.com/control-toolbox" ><img src="./figures/logo-ct.png" HEIGHT="60px"  BORDER="0"></a> [control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
+[control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
 
-<a href="http://hampath.org"><img src="./figures/logo-hampath.png" HEIGHT="60px"  BORDER="0"></a> [hampath](http://hampath.org): A Fortran code with a Python interface to solve optimal control problems by indirect and path following methods. Since 2009.
+[hampath](http://hampath.org): A Fortran code with a Python interface to solve optimal control problems by indirect and path following methods. Since 2009.
 
-<a href="https://ct.gitlabpages.inria.fr/nutopy/"><img src="./figures/logo-nt.png" HEIGHT="60px"  BORDER="0"></a> [nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](http://control-toolbox.inria.fr) of examples. Since 2019.
+[nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](http://control-toolbox.inria.fr) of examples. Since 2019.
 
 <a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="100px"  BORDER="0"></a>
+
+[![ocots's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocots)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Teaching
 
