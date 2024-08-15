@@ -35,11 +35,9 @@ Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</
 
 ## Softwares
 
-[control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
-
-[hampath](http://hampath.org): A Fortran code with a Python interface to solve optimal control problems by indirect and path following methods. Since 2009.
-
-[nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](http://control-toolbox.inria.fr) of examples. Since 2019.
+- [control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
+- [hampath](http://hampath.org): A Fortran code with a Python interface to solve optimal control problems by indirect and path following methods. Since 2009.
+- [nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](http://control-toolbox.inria.fr) of examples. Since 2019.
 
 <a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +47,5 @@ Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</
 
 ## Teaching
 
-<a href="https://gitlab.irit.fr/toc/etu-n7"><img src="./figures/N7.png" HEIGHT="60px"  BORDER="0"></a> [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
-
-<a href="https://gitlab.irit.fr/toc/cimpa/gnmoc"><img src="./figures/logo-arbaminch.png" HEIGHT="60px"  BORDER="0"></a> [CIMPA](https://gitlab.irit.fr/toc/cimpa/gnmoc)
+- [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
+- [CIMPA](https://gitlab.irit.fr/toc/cimpa/gnmoc)
