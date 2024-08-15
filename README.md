@@ -2,7 +2,7 @@
 ocots/ocots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[<img src="./figures/inp-enseeiht.jpg" alt="ENSEEIHT" height="60px"/>](https://www.enseeiht.fr/fr/index.html)
+[<img src="./figures/Logo-toulouse-inp-N7.png" alt="ENSEEIHT" height="60px"/>](https://www.enseeiht.fr/fr/index.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="./figures/logo-irit.png" alt="IRIT" height="60px"/>](https://www.irit.fr)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
