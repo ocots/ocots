@@ -27,10 +27,10 @@ Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</
 
 ## Publications
 
-<a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" HEIGHT="60px" BORDER="0"></a>
+<a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" HEIGHT="30px" BORDER="0"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="60px" BORDER="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://arxiv.org/search/?searchtype8author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" HEIGHT="60px" BORDER="0"></a>
+<a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="30px" BORDER="0"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://arxiv.org/search/?searchtype8author&query=Cots%2C+O" ><img src="./figures/logo-arxiv.png" HEIGHT="30px" BORDER="0"></a>
 
 ## Softwares
 
