@@ -36,7 +36,7 @@ Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</
 ## Softwares
 
 - [control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
-- [hampath](http://hampath.org), [latest](https://gitlab.inria.fr/ct/hampath): A Fortran code with a Python / Matlab interface to solve optimal control problems by indirect and path following methods. Since 2009.
+- [hampath](https://gitlab.inria.fr/ct/hampath): A Fortran code with a Python / Matlab interface to solve optimal control problems by indirect and path following methods. Since 2009.
 - [nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](http://control-toolbox.inria.fr) of examples. Since 2019.
 
 <a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
