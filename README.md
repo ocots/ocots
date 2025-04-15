@@ -48,4 +48,5 @@ Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</
 ## Teaching
 
 - [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
+- [ocourses](https://github.com/ocourses), [Julia course](https://github.com/ocots/course-tse-julia)
 - [CIMPA](https://gitlab.irit.fr/toc/cimpa/gnmoc)
