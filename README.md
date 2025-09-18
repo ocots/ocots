@@ -33,11 +33,11 @@
 
 ### 🐍 [NutoPy](https://ct.gitlabpages.inria.fr/nutopy/)
 > Numerical Toolbox in Python for optimal control  
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [![Gallery](https://img.shields.io/badge/📊_Gallery-Examples-1947ba?style=flat-square)](http://control-toolbox.inria.fr)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [![Gallery](https://img.shields.io/badge/📊_Gallery-Examples-1947ba?style=flat-square)](https://ct.gitlabpages.inria.fr/gallery)
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 ![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocots&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f84b0f&icon_color=1947ba&text_color=c9d1d9)
 
