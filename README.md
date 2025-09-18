@@ -1,52 +1,73 @@
-<!---
-ocots/ocots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[<img src="./figures/Logo-toulouse-inp-N7.png" alt="ENSEEIHT" height="60px"/>](https://www.enseeiht.fr/fr/index.html)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./figures/logo-irit.png" alt="IRIT" height="60px"/>](https://www.irit.fr)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./figures/logo-apo-r.jpg" alt="APO" height="60px"/>](https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/equipe-apo/)
+# Hi there! 👋 I'm Olivier Cots
 
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/🌐_Website-ocots.github.io-f84b0f?style=for-the-badge&logoColor=white)](https://ocots.github.io)
+[![Email](https://img.shields.io/badge/📧_Contact-olivier.cots@toulouse--inp.fr-1947ba?style=for-the-badge&logoColor=white)](mailto:olivier.cots@toulouse-inp.fr)
 
-Associate professor of applied mathematics at
-<a href="http://www.irit.fr/">IRIT (UMR CNRS 5505)</a>, 
-<a href="http://www.enseeiht.fr/fr">ENSEEIHT (D&eacute;pt. SN)</a>.
+</div>
 
-Scientific interests: Optimal control: Geometry, algorithms and applications.
+## 🎯 About Me
 
-Team <a href="http://apo.enseeiht.fr/">Algo. Parall&egrave;les et Optimisation</a>.
+**Associate Professor of Applied Mathematics** at [IRIT](https://www.irit.fr/) (UMR CNRS 5505) & [ENSEEIHT](https://www.enseeiht.fr/) (Dépt. SN)
 
-## Contact and profile
+🔬 **Research Focus:** Optimal Control • Geometry • Algorithms • Applications  
+🏛️ **Team:** [Algo. Parallèles et Optimisation](https://www.irit.fr/apo/site)
 
-<a href="mailto:olivier.cots@toulouse-inp.fr"><img src="./figures/email_logo.png" HEIGHT=40px BORDER=0>
-&nbsp;
-<a href="https://scholar.google.fr/citations?user=JVn4K6UAAAAJ&hl=fr" ><img src="./figures/logo-scholar.png" HEIGHT="40px" BORDER="0"></a>
- &nbsp;
- <a href="https://www.researchgate.net/profile/Olivier_Cots" ><img src="./figures/logo_RG.png" HEIGHT="40px" BORDER="0"></a>
+<div align="center">
+  
+[![IRIT](https://img.shields.io/badge/IRIT-UMR_CNRS_5505-f84b0f?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://www.irit.fr/)
+[![ENSEEIHT](https://img.shields.io/badge/ENSEEIHT-Toulouse_INP-1947ba?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://www.enseeiht.fr/)
 
-## Publications
+</div>
 
-<a href="https://cv.archives-ouvertes.fr/ocots" ><img src="./figures/logo-hal.png" HEIGHT="50px" BORDER="0"></a>
-&nbsp;
-<a href="https://www.irit.fr/productions-scientifiques/publications/?code=5915&nom=Olivier%20Cots" ><img src="./figures/logo-irit.png" HEIGHT="50px" BORDER="0"></a>
-&nbsp;
-<a href="https://arxiv.org/a/0000-0002-4703-4369.html" ><img src="./figures/logo-arxiv.png" HEIGHT="50px" BORDER="0"></a>
+## 🚀 Featured Projects
 
-## Softwares
+### 🎮 [Control Toolbox](https://github.com/control-toolbox)
+> A Julia ecosystem for solving optimal control problems  
+> ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Stars](https://img.shields.io/github/stars/control-toolbox/OptimalControl.jl?style=flat-square&color=f84b0f)
 
-- [control-toolbox](https://github.com/control-toolbox): A julia ecosystem of packages to solve optimal control problems. Since 2023.
-- [hampath](https://gitlab.inria.fr/ct/hampath): A Fortran code with a Python / Matlab interface to solve optimal control problems by indirect and path following methods. Since 2009.
-- [nutopy](https://ct.gitlabpages.inria.fr/nutopy/): NUmerical TOolbox in PYthon (nutopy) to solve optimal control problems. See the [gallery](http://control-toolbox.inria.fr) of examples. Since 2019.
+### 🔧 [HamPath](https://gitlab.inria.fr/ct/hampath)
+> Fortran code with Python/Matlab interface for optimal control  
+> ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<a href="https://ct.gitlabpages.inria.fr/gallery/notebooks.html" ><img src="./figures/notebook-logo.png" width="100px"  BORDER="0"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ct.gitlabpages.inria.fr/gallery/dashboards.html" ><img src="./figures/dashboard-logo.png" width="100px"  BORDER="0"></a>
+### 🐍 [NutoPy](https://ct.gitlabpages.inria.fr/nutopy/)
+> Numerical Toolbox in Python for optimal control  
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [![Gallery](https://img.shields.io/badge/📊_Gallery-Examples-1947ba?style=flat-square)](http://control-toolbox.inria.fr)
 
-[![ocots's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocots)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
-## Teaching
+<div align="center">
+  
+![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocots&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f84b0f&icon_color=1947ba&text_color=c9d1d9)
 
-- [ENSEEIHT](https://gitlab.irit.fr/toc/etu-n7)
-- [ocourses](https://github.com/ocourses), [Julia course](https://github.com/ocots/course-tse-julia)
-- [CIMPA](https://gitlab.irit.fr/toc/cimpa/gnmoc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocots&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f84b0f&text_color=c9d1d9)
+
+</div>
+
+## 🔗 Connect & Publications
+
+<div align="center">
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JVn4K6UAAAAJ&hl=fr)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Olivier-Cots)
+[![HAL](https://img.shields.io/badge/HAL_CV-f84b0f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](https://cv.hal.science/ocots)
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/0000-0002-4703-4369.html)
+
+</div>
+
+## 🎓 Teaching & Courses
+
+- 📚 [ENSEEIHT Courses](https://gitlab.irit.fr/toc/etu-n7) - Advanced mathematics & optimization
+- 💻 [Julia Course](https://github.com/ocots/course-tse-julia) - Modern scientific computing
+- 🌍 [CIMPA School](https://gitlab.irit.fr/toc/cimpa/gnmoc) - International mathematics program
+
+---
+
+<div align="center">
+  
+*"Optimizing the world, one algorithm at a time"* 🚀
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ocots&color=f84b0f&style=flat-square&label=Profile+Views)](https://github.com/ocots)
+
+</div>
