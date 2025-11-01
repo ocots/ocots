@@ -1,5 +1,11 @@
 # Hi there! 👋 I'm Olivier Cots
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ocots/ocots/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocots/ocots/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ocots/ocots/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   
 [![Website](https://img.shields.io/badge/🌐_Website-ocots.github.io-f84b0f?style=for-the-badge&logoColor=white)](https://ocots.github.io)
@@ -66,8 +72,6 @@
 
 <div align="center">
   
-*"Optimizing the world, one algorithm at a time"* 🚀
-
 [![Profile Views](https://komarev.com/ghpvc/?username=ocots&color=f84b0f&style=flat-square&label=Profile+Views)](https://github.com/ocots)
 
 </div>
