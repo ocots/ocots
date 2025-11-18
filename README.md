@@ -49,8 +49,6 @@
   
 ![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocots&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f84b0f&icon_color=1947ba&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocots&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f84b0f&text_color=c9d1d9)
-
 </div>
 
 ## 🔗 Connect & Publications
