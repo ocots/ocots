@@ -31,15 +31,15 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 [Control Toolbox](https://github.com/control-toolbox)
+### [Control Toolbox](https://github.com/control-toolbox)
 > A Julia ecosystem for solving optimal control problems  
 > ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![Stars](https://img.shields.io/github/stars/control-toolbox/OptimalControl.jl?style=flat-square&color=f84b0f)
 
-### 🔧 [HamPath](https://gitlab.inria.fr/ct/hampath)
+### [HamPath](https://gitlab.inria.fr/ct/hampath)
 > Fortran code with Python/Matlab interface for optimal control  
 > ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🐍 [NutoPy](https://ct.gitlabpages.inria.fr/nutopy/)
+### [NutoPy](https://ct.gitlabpages.inria.fr/nutopy/)
 > Numerical Toolbox in Python for optimal control  
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [![Gallery](https://img.shields.io/badge/📊_Gallery-Examples-1947ba?style=flat-square)](https://ct.gitlabpages.inria.fr/gallery)
 
@@ -47,7 +47,9 @@
 
 <div align="left">
   
-![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocots&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f84b0f&icon_color=1947ba&text_color=c9d1d9)
+[![](https://raw.githubusercontent.com/ocots/ocots/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ocots/ocots/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ocots/ocots/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ocots/ocots/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ocots/ocots/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
