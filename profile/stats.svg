@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Olivier Cots' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  (last year) : 4598, Total PRs: 792, Total Issues: 737, Contributed to (last year): 53</desc>
+        <desc id="descId">Total Commits  (last year) : 4608, Total PRs: 792, Total Issues: 737, Contributed to (last year): 53</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.416436323159346;
+        stroke-dashoffset: 60.41643299331686;
       }
     }
   
